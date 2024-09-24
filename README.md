@@ -1,1 +1,1 @@
-# Aulas_Coding_ADS
+# Códigos relacionados ao assuntos estudados na Faculdade Senac
